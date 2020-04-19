@@ -11,3 +11,5 @@ venv/
 *.shx
 *.dbf
 *.cpg
+*.pdf
+
