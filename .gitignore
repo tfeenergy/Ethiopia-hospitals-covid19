@@ -1,5 +1,6 @@
 data/
 src/
+venv/
 *.swp
 *checkpoint.ipynb
 *.pdf
