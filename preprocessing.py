@@ -15,15 +15,6 @@ import json # handle response as json
 from geopy.distance import vincenty
 import pickle
 
-#log = logging.getLogger(__name__)
-"""
-    get_pop(raster filename,left_x,top_y,window,plot=False)
-
-    Given a raster file, and row,cols ranges,
-    return the lonlat of the ranges, nancount, and the nunsum
-
-    Optionally plot the raster window [False]
-"""
 
 def get_population_data(map_file,left_x,top_y,window,plot=False):
 
@@ -98,27 +89,11 @@ def n_closest_geodetic(destinations,origins,n_keep,verbose=False):
         distances=destinations.distance(origins.loc[index].geometry)
         if len(distances) < n_keep:
             n_keep = len(distances)
-        #query indices
         indices=np.argsort(distances.values)[:n_keep]
         values=np.sort(distances.values)[:n_keep]
-        #destination indices
         d_indices=distances.index[indices]
         filtered = filtered.append(destinations.iloc[indices])
 
     if verbose:
         print('done')
     return filtered.append(filtered).drop_duplicates(inplace=False)
-
-
-def process_OSRM_bacth():
-    return 0
-
-
-
-
-def test():
-    # List of all the hospitals which are at least for one of the origin points
-    # among the top "n_keep" hospitals wrt geodesic distance.
-    test_o = origins.sample(frac=1).reset_index(drop=True).head(5)
-    test_d = hospitals.sample(frac=1).reset_index(drop=True).head(10)
-    filtered = n_closest_geodetic(test_d,test_o,3,verbose=True)
