@@ -1,7 +1,7 @@
 # Analysis of travel times to hospitals and health centers in Ethiopia
 ## A country-wide analysis to plan COVID-19 response
 Forked from the [covid19 repository](https://github.com/datapartnership/covid19) from the Data Partnership authored by Bruno Sánchez-Andrade Nuño (@brunosan).
-Adapted by TFE Energy.
+Adapted by TFE Energy. Learn more about our work on tfe.energy or write to philippe.raisin@tfe.energy.
 
 
 ## Donwload OSM data
