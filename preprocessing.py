@@ -8,7 +8,6 @@ from rasterio.windows import Window
 from matplotlib import pyplot
 import matplotlib.pyplot as plt
 import geopandas as gdp
-import geopandas as gpd
 from shapely.geometry import Point
 from shapely.geometry import box
 import requests #http framework to make mhvpl requests for routes
@@ -16,17 +15,18 @@ import json # handle response as json
 from geopy.distance import vincenty
 import pickle
 
-log = logging.getLogger(__name__)
-
-def get_pop(map_file,left_x,top_y,window,plot=False):
-    """
+#log = logging.getLogger(__name__)
+"""
     get_pop(raster filename,left_x,top_y,window,plot=False)
 
     Given a raster file, and row,cols ranges,
     return the lonlat of the ranges, nancount, and the nunsum
 
     Optionally plot the raster window [False]
-    """
+"""
+
+def get_population_data(map_file,left_x,top_y,window,plot=False):
+
     right_x,bottom_y = left_x + window, top_y + window
 
     with rasterio.open(map_file) as src:
@@ -64,7 +64,6 @@ def get_pop(map_file,left_x,top_y,window,plot=False):
          'split': split}
     return out
 
-
 def split(map_file,origin,plot=False):
     """
     Split a window row in 4 parts, and return new rows results
@@ -73,7 +72,7 @@ def split(map_file,origin,plot=False):
     window=int(origin.window/2)
     for left_x in np.arange(origin.left_x,origin.right_x,window):
         for top_y in np.arange(origin.top_y,origin.bottom_y,window):
-            out=get_pop(map_file,left_x,top_y,window,plot=plot)
+            out=get_population_data(map_file,left_x,top_y,window,plot=plot)
             if out != {}:
                 origins=origins.append([out])
     return origins
@@ -109,3 +108,17 @@ def n_closest_geodetic(destinations,origins,n_keep,verbose=False):
     if verbose:
         print('done')
     return filtered.append(filtered).drop_duplicates(inplace=False)
+
+
+def process_OSRM_bacth():
+    return 0
+
+
+
+
+def test():
+    # List of all the hospitals which are at least for one of the origin points
+    # among the top "n_keep" hospitals wrt geodesic distance.
+    test_o = origins.sample(frac=1).reset_index(drop=True).head(5)
+    test_d = hospitals.sample(frac=1).reset_index(drop=True).head(10)
+    filtered = n_closest_geodetic(test_d,test_o,3,verbose=True)
