@@ -1,3 +1,0 @@
-# General documentation
-
-## Gejson files
