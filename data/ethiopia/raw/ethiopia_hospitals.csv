@@ -1,0 +1,152 @@
+﻿Admin1,Facility name,Facility type,Lat,Long
+Addis Ababa,Addis Ketema Hospital 1,Hospital,9.0256,38.7258
+Addis Ababa,Addis Ketema Hospital 2,Hospital,9.0328,38.7228
+Addis Ababa,Addis Ketema Hospital 3,Hospital,9.0358,38.7257
+Addis Ababa,Addis Ketema Hospital 4,Hospital,9.0295,38.7355
+Addis Ababa,Akaki Kaliti Hospital,Hospital,8.9512,38.7676
+Addis Ababa,Arada Hospital 1,Hospital,9.0409,38.747
+Addis Ababa,Arada Hospital 2,Hospital,9.0371,38.7466
+Addis Ababa,Arada Hospital 3,Hospital,9.0392,38.7622
+Addis Ababa,Arada Hospital 4,Hospital,9.0346,38.7632
+Addis Ababa,Arada Hospital 5,Hospital,9.033,38.7698
+Addis Ababa,Bole Hospital 1,Hospital,9.0006,38.7799
+Addis Ababa,Bole Hospital 2,Hospital,9.0089,38.7858
+Addis Ababa,Bole Hospital 3,Hospital,9.0114,38.79
+Addis Ababa,Bole Hospital 4,Hospital,9.0059,38.7908
+Addis Ababa,Bole Hospital 5,Hospital,9.0154,38.8122
+Addis Ababa,Bole Hospital 6,Hospital,8.9857,38.796
+Addis Ababa,Bole Hospital 7,Hospital,8.9903,38.7978
+Addis Ababa,Bole Hospital 8,Hospital,8.991,38.8162
+Addis Ababa,Gulele Hospital 1,Hospital,9.0446,38.7309
+Addis Ababa,Gulele Hospital 2,Hospital,9.0712,38.7604
+Addis Ababa,Kirkos Hospital 1,Hospital,9.0147,38.7595
+Addis Ababa,Kirkos Hospital 2,Hospital,9.0115,38.7586
+Addis Ababa,Kirkos Hospital 3,Hospital,8.9974,38.77
+Addis Ababa,Kolfe Keraniyo Hospital 1,Hospital,9.0549,38.713
+Addis Ababa,Kolfe Keraniyo Hospital 2,Hospital,9.001,38.696
+Addis Ababa,Kolfe Keraniyo Hospital 3,Hospital,8.9814,38.7144
+Addis Ababa,Lideta Hospital 1,Hospital,9.0017,38.7181
+Addis Ababa,Lideta Hospital 2,Hospital,8.9915,38.719
+Addis Ababa,Lideta Hospital 3,Hospital,9.0082,38.7413
+Addis Ababa,Lideta Hospital 4,Hospital,9.0076,38.743
+Addis Ababa,Lideta Hospital 5,Hospital,9.0163,38.7514
+Addis Ababa,Yeka Hospital 1,Hospital,9.0344,38.7782
+Afar,Dubti Hospital,Hospital,11.7244,41.094
+Afar,National Hospital,National Hospital,9.2543,40.1558
+Afar,Sedia Fagie Hospital,Hospital,12.0974,40.566
+Amhara,Alem Ketema Enat Hospital,Hospital,10.0581,38.9892
+Amhara,Bati General Hospital,General Hospital,11.144,39.6261
+Amhara,Boru Meda Hospital,Hospital,11.22,39.6095
+Amhara,Debark District Hospital,District Hospital,13.1385,37.8893
+Amhara,Debre Birhan Hospital,Hospital,9.6742,39.5433
+Amhara,Debre Markos Zonal Hospital,Zonal Hospital,10.321,37.7221
+Amhara,Debre Tabor Hospital,Hospital,11.852,38.0083
+Amhara,Dessie Referal Hospital,Referral Hospital,11.125,39.6351
+Amhara,Felege Hiwot Referal Hospital,Referral Hospital,11.6043,37.3688
+Amhara,Finote Selam Hospital,Hospital,10.6913,37.2662
+Amhara,Gondar Referal Hospital,Referral Hospital,12.6183,37.4555
+Amhara,Hider 11 Hospital,Hospital,10.8579,39.1734
+Amhara,Lalibela Hospital,Hospital,12.0333,39.0333
+Amhara,Mehal Meda Hospital,Hospital,10.3084,39.6582
+Amhara,Mekela Patriots Memorial Lalibe Hospital,Hospital,12.0369,39.0519
+Amhara,Meshenti Hospital,Hospital,11.4833,37.2667
+Amhara,Metema Hospital,Hospital,12.7694,36.4082
+Amhara,Shegaw Motta Geter Hospital,Hospital,11.0699,37.889
+Amhara,Tefera Hailu Hospital,Hospital,12.6194,39.0358
+Amhara,Woldiya Zonal Hospital,Zonal Hospital,11.8262,39.5928
+Harari,East Command Hospital,Hospital,9.3126,42.1227
+Harari,Hiwot Fana Hospital,Hospital,9.3031,42.1243
+Harari,Jegol Hospital,Hospital,9.3066,42.1364
+Harari,Jugol Hospital,Hospital,9.3093,42.1363
+Harari,Yimas Small General Hospital,General Hospital,9.3036,42.122
+Oromiya,Abomsa Hospital,Hospital,8.4731,39.82
+Oromiya,Adama Hospital,Hospital,8.5426,39.2723
+Oromiya,Adola Hospital,Hospital,5.8833,38.9833
+Oromiya,Ambo Hospital,Hospital,8.9765,37.8431
+Oromiya,Assela Hospital,Hospital,7.973,39.1266
+Oromiya,Ayira Hospital,Hospital,9.1031,35.3926
+Oromiya,Ayyana Hospital,Hospital,9.8769,36.625
+Oromiya,Bishoftu Hospital,Hospital,8.7525,38.9761
+Oromiya,Bisidimo Hospital,Hospital,9.1658,42.2547
+Oromiya,Bofa Hospital,Hospital,8.4647,39.4503
+Oromiya,Chiro Hospital,Hospital,9.0573,40.8501
+Oromiya,Dambidolo Hospital,Hospital,8.5338,34.8082
+Oromiya,Debre Zeit Hospital,Hospital,8.7347,39.0085
+Oromiya,Deder Hospital,Hospital,9.2756,41.4067
+Oromiya,Dembi Hospital,Hospital,8.5198,34.8048
+Oromiya,Dodola Hospital,Hospital,6.9743,39.1867
+Oromiya,Doni Hospital,Hospital,8.6528,39.5413
+Oromiya,Fiche Hospital,Hospital,9.7748,38.7253
+Oromiya,Gambo Hospital,Hospital,7.5529,38.6401
+Oromiya,Gambo Rural Hospital,Hospital,7.3034,38.809
+Oromiya,Gedo Hospital,Hospital,8.5666,39.3333
+Oromiya,Gelemso Hospital,Hospital,8.794,40.5142
+Oromiya,Gimbi Adventist Hospital,Hospital,9.176,35.826
+Oromiya,Gimbi Hospital,Hospital,9.172,35.834
+Oromiya,Ginde Beret Hospital,Hospital,9.6193,37.8435
+Oromiya,Ginir Hospital,Hospital,7.1253,40.7098
+Oromiya,Girawa Hospital,Hospital,9.0935,41.7956
+Oromiya,Goba Hospital,Hospital,6.9991,39.9646
+Oromiya,Hagere Mariam Hospital,Hospital,5.6333,38.2333
+Oromiya,Haile Mariam Hospital,Hospital,8.3412,39.1497
+Oromiya,Jemo Hospital,Hospital,9.0173,38.6335
+Oromiya,Kuyu Hospital,Hospital,9.8166,38.4166
+Oromiya,Limu Genet Hospital,General Hospital,8.0903,36.9426
+Oromiya,Merti Hospital,Hospital,8.8188,39.9236
+Oromiya,Metu Karl Hospital,Hospital,8.2914,35.5739
+Oromiya,Negele Borena Hospital,Hospital,5.3255,39.5716
+Oromiya,Nejo Hospital,Hospital,9.4893,35.5085
+Oromiya,Nekemte1 Hospital,Hospital,9.0824,36.5526
+Oromiya,Nekemte2 Hospital,Hospital,9.0761,36.5652
+Oromiya,Shambu Hospital East Wellega,Hospital,9.5759,37.1096
+Oromiya,Shambu Hospital Horo Gudru,Hospital,9.5723,37.1063
+Oromiya,Shashamane Hospital,Hospital,7.2,38.6
+Oromiya,Shashemene General Hospital,General Hospital,7.2541,38.6534
+Oromiya,Shashmene Hospital,Hospital,7.2555,38.6564
+Oromiya,Shedare Chefa Hospital,Hospital,8.3758,39.6865
+Oromiya,St Lukas Catholic Hospital,Hospital,8.5407,37.9732
+Oromiya,Tulubolo Hospital,Hospital,8.6666,38.2166
+Oromiya,Wolenchiti Hospital,Hospital,8.6575,39.4313
+Oromiya,Wonji1 Hospital,Hospital,8.542,39.2709
+Oromiya,Wonji2 Hospital,Hospital,8.3998,39.2425
+Oromiya,Yabelo Hospital,Hospital,4.9,38.1
+Somali,Degerhabour Hospital,Hospital,8.2214,43.5578
+Somali,Filtu Hospital,Hospital,5.2833,40.8166
+Somali,Kebri Dahar Hospital,Hospital,6.7361,44.2726
+Somali,Mellineum Hospital,Hospital,9.343,42.813
+Somali,Warder Hospital,Hospital,6.9666,45.3333
+"Southern Nations, Nationalities, and Peoples' Region",Arabaminch Hospital,Hospital,6.0237,37.5612
+"Southern Nations, Nationalities, and Peoples' Region",Arbaminch Hospital,Hospital,6.0353,37.5502
+"Southern Nations, Nationalities, and Peoples' Region",Aroresa Hospital,Hospital,7.6667,44.6833
+"Southern Nations, Nationalities, and Peoples' Region",Asher Hospital,Hospital,7.0401,38.4734
+"Southern Nations, Nationalities, and Peoples' Region",Atat1 Hospital,Hospital,8.2,37.8
+"Southern Nations, Nationalities, and Peoples' Region",Atat2 Hospital,Hospital,8.1717,37.7871
+"Southern Nations, Nationalities, and Peoples' Region",Bona District Hospital,District Hospital,6.5368,38.7068
+"Southern Nations, Nationalities, and Peoples' Region",Bonga Hospital,Hospital,7.2666,36.25
+"Southern Nations, Nationalities, and Peoples' Region",Butagera Hospital,Hospital,8.1183,38.3735
+"Southern Nations, Nationalities, and Peoples' Region",Butajira Hospital,Hospital,8.1232,38.3713
+"Southern Nations, Nationalities, and Peoples' Region",Chencha District Hospital,District Hospital,6.255,37.5704
+"Southern Nations, Nationalities, and Peoples' Region",Chencha Hospital,Hospital,6.2475,37.5825
+"Southern Nations, Nationalities, and Peoples' Region",Dilla1 Hospital,Hospital,6.3921,38.3076
+"Southern Nations, Nationalities, and Peoples' Region",Dilla2 Hospital,Hospital,6.4102,38.3082
+"Southern Nations, Nationalities, and Peoples' Region",Dubo Hospital,Hospital,7.0666,37.6833
+"Southern Nations, Nationalities, and Peoples' Region",Durame Hospital,Hospital,7.2546,37.9036
+"Southern Nations, Nationalities, and Peoples' Region",Gebre Tsadik Shawo Hospital,Hospital,7.2715,36.2389
+"Southern Nations, Nationalities, and Peoples' Region",Gidole District Hospital,District Hospital,5.6426,37.3557
+"Southern Nations, Nationalities, and Peoples' Region",Gorbesala Hospital,Hospital,6.7661,38.3776
+"Southern Nations, Nationalities, and Peoples' Region",Hawassa Referal Hospital,Referral Hospital,7.0237,38.4598
+"Southern Nations, Nationalities, and Peoples' Region",Jinka Zonal Hospital,Zonal Hospital,5.7759,36.5581
+"Southern Nations, Nationalities, and Peoples' Region",Mizan Hospital,Hospital,6.9971,35.5958
+"Southern Nations, Nationalities, and Peoples' Region",Mizan Tefer Hospital,Hospital,6.9655,35.5432
+"Southern Nations, Nationalities, and Peoples' Region",Nigist Eleni Mohamed Metasabya Hospital,Hospital,7.556,37.8412
+"Southern Nations, Nationalities, and Peoples' Region",Sawla Hospital,Hospital,6.3157,36.8899
+"Southern Nations, Nationalities, and Peoples' Region",Sisona Imatye Hospital,Hospital,8.1766,37.7893
+"Southern Nations, Nationalities, and Peoples' Region",Sodo Hospital,Hospital,6.856,37.7592
+"Southern Nations, Nationalities, and Peoples' Region",Tercha Distric Hospital,District Hospital,7.141,37.18
+"Southern Nations, Nationalities, and Peoples' Region",Wolayta Sodo Hospital,Hospital,6.8543,37.773
+"Southern Nations, Nationalities, and Peoples' Region",Yergalem Hospital,Hospital,6.7449,38.4027
+"Southern Nations, Nationalities, and Peoples' Region",Yetibo Mercy Hospital,Hospital,8.1202,38.2921
+"Southern Nations, Nationalities, and Peoples' Region",Yirga Alem Hospital,Hospital,6.7247,38.4158
+"Southern Nations, Nationalities, and Peoples' Region",Yirgalem Hospital,Hospital,6.7431,38.3896
+Tigray,May Adirasha Hospital,Hospital,14.1141,38.3044
+Tigray,Tsegede Hospital,Hospital,13.6436,36.8596
